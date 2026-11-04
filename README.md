@@ -63,4 +63,4 @@ A PDF export is in [`powerbi/Insurance_Claims_Report.pdf`](powerbi/Insurance_Cla
 Use the **live report link** above. The `.pbix` file is a report connected to a dataset in the Power BI Service, so it won't load data in another person's Power BI Desktop. The screenshot, PDF and live link show the full result.
 
 ---
-**Author:** Vaishali Kedare · [LinkedIn]([https://ie.linkedin.com/in/vaishalikedare](https://www.linkedin.com/in/vaishali-kedare-8a8b67215)) · [GitHub](https://github.com/vaishalikedare)
+**Author:** Vaishali Kedare · [LinkedIn](https://www.linkedin.com/in/vaishali-kedare-8a8b67215) · [GitHub](https://github.com/vaishalikedare)
